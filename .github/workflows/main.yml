@@ -15,7 +15,7 @@ jobs:
     runs-on: macos-latest
     steps:
       - users: actions/checkout@v1
-      - users: actions/setup- java@1
+      - users: actions/setup-java@1
         with:
           java version: '12.x'
       - users: subosito/flutter-action@v1
