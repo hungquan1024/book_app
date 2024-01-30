@@ -45,7 +45,7 @@ class _HomePageState extends State<HomePage> {
   String? selectedLanguage = 'VN';
   String gettext="";
   int n=0;
-  static const List<String> txtHello=['Xin chào,Hoàng Anh','Hello, Hoanganh'];
+  static const List<String> txtHello=['Xin chào,Hưng Quân','Hello, Hoanganh'];
   static const List<String> location=['Địa điểm','Location'];
   static const List<String> time=['Tháng 8','August'];
   static const List<String> guests=['Khách','Guests'];
