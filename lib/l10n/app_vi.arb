@@ -1,0 +1,28 @@
+{
+    "login" : "Đăng nhập",
+    "reg" : "Đăng ký",
+    "user" :"Tài khoản",
+    "pass" : "Mật khẩu",
+    "userreq":"Nhập tài khoản",
+    "passreq":"Nhập mật khẩu",
+    "forgotpass" : "Quên mật khẩu",
+
+ 
+    "location":"Địa điểm",
+    "date":"Tháng 8",
+    "guests":"Khách",
+    "search":"Tìm kiếm",
+    
+
+    "detail":"Chi tiết",
+    "go_to":"Đi tới",
+    "continues":"Tiếp tục",
+    "text":"Tiếng việt Tiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việtTiếng việt",
+
+    "home":"Trang chủ",
+    "home_user":"Người dùng",
+
+    "hotel":"Khách sạn",
+    "food":"Ẩm thực",
+    "activities":"Hoạt động"
+}
